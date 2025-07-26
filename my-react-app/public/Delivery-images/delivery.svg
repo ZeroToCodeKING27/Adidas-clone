@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="11px" viewBox="0 0 20 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Communication/USP/Delivery/delivery</title>
+    <g id="MVP1-Reloaded" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Detail-Page-(PDP)---1.-Size-(Mouse-hover-&amp;-Selection)---2.-Product-Badge---3.-Highlights-More-than-4" transform="translate(-993.000000, -819.000000)">
+            <g id="Group-17" transform="translate(991.000000, 812.000000)">
+                <polygon id="Fill-1" points="0 24 24 24 24 0 0 0"></polygon>
+                <g id="Group-16" transform="translate(2.500000, 7.631579)" stroke="#000000">
+                    <line x1="13.417" y1="8.5" x2="9.5" y2="8.5" id="Stroke-2"></line>
+                    <polyline id="Stroke-3" stroke-linecap="square" points="4.5 0.5 14.5 0.5 18.5 3.5 18.5 8.5 16.5 8.5"></polyline>
+                    <line x1="6.5" y1="8.5" x2="4.5" y2="8.5" id="Stroke-5" stroke-linecap="square"></line>
+                    <line x1="4.5" y1="2.5" x2="0.5" y2="2.5" id="Stroke-6" stroke-linecap="square"></line>
+                    <path d="M8,9.5 C7.172,9.5 6.5,8.828 6.5,8 C6.5,7.172 7.172,6.5 8,6.5 C8.828,6.5 9.5,7.172 9.5,8 C9.5,8.828 8.828,9.5 8,9.5 Z" id="Stroke-8"></path>
+                    <path d="M15,9.5 C14.172,9.5 13.5,8.828 13.5,8 C13.5,7.172 14.172,6.5 15,6.5 C15.828,6.5 16.5,7.172 16.5,8 C16.5,8.828 15.828,9.5 15,9.5 Z" id="Stroke-10"></path>
+                    <line x1="1.5" y1="4.5" x2="4.5" y2="4.5" id="Stroke-12" stroke-linecap="square"></line>
+                    <line x1="2.5" y1="6.5" x2="4.5" y2="6.5" id="Stroke-14" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
