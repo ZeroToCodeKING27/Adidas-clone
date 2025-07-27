@@ -86,6 +86,8 @@ import LIFESTYLEa  from'./pages/LIFESTYLEa';
                    import LOGIN$SIGNUPa from './pages/LOGIN$SIGNUPa';
                     import BAG from './pages/BAG';
                       import MENWEBPAGE from './pages/MENWEBPAGE';
+                       import WOMENWEBPAGE from './pages/WOMENWEBPAGE';
+                        import KIDSWEBPAGE from './pages/KIDSWEBPAGE';
                     import Aboutcontenta from './pages/Aboutcontenta';
                     import Aboutcontentb from './pages/Aboutcontentb';
                     import Aboutcontentc from './pages/Aboutcontentc';
@@ -258,6 +260,8 @@ function App() {
                                                                                 <Route path="/LOGIN$SIGNUP" element={<LOGIN$SIGNUP />}/>
                                                                                  <Route path="/LOGIN$SIGNUPa" element={<LOGIN$SIGNUPa/>}/>
                                                                                <Route path="/MENWEBPAGE" element={<MENWEBPAGE/>}/>
+                                                                                <Route path="/WOMENWEBPAGE" element={<WOMENWEBPAGE/>}/>
+                                                                                 <Route path="/KIDSWEBPAGE" element={<KIDSWEBPAGE/>}/>
          <Route path="/Aboutcontenta" element={<Aboutcontenta/>}/>
           <Route path="/Aboutcontentb" element={<Aboutcontentb/>}/>
            <Route path="/Aboutcontentc" element={<Aboutcontentc/>}/>
